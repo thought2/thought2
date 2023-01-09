@@ -73,6 +73,7 @@ Here' you'll find an overview of Open Source projects that I was working on rece
       <td colspan=5><b>Classless</b></td>
     <tr>
     <tr>
+      <td></td>
       <td><a href="https://github.com/thought2/purescript-classless">classless</a></td>
       <td>Utils to create classless APIs</td>
       <td></td>
@@ -81,6 +82,7 @@ Here' you'll find an overview of Open Source projects that I was working on rece
     </tr>
     <tr></tr>
     <tr>
+      <td></td>
       <td><a href="https://github.com/thought2/purescript-classless-decode-json">classless-decode-json</a></td>
       <td></td>
       <td></td>
@@ -89,6 +91,7 @@ Here' you'll find an overview of Open Source projects that I was working on rece
     </tr>
     <tr></tr>
     <tr>
+      <td></td>
       <td><a href="https://github.com/thought2/purescript-classless-encode-json">classless-encode-json</a></td>
       <td></td>
       <td></td>
@@ -97,6 +100,7 @@ Here' you'll find an overview of Open Source projects that I was working on rece
     </tr>
     <tr></tr>
     <tr>
+      <td></td>
       <td><a href="https://github.com/thought2/purescript-classless-arbitrary">classless-arbitrary</a></td>
       <td></td>
       <td></td>
