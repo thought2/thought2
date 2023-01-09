@@ -14,9 +14,9 @@ Here' you'll find an overview of Open Source projects that I was working on rece
       <td>Language</td>
       <td>Status</td>
     </tr>
-    <tr></tr>
   </thead>
   <tbody>
+    <tr></tr>
     <tr>
       <td colspan=6><b>Data Structures</b></td>
     <tr>
