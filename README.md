@@ -112,6 +112,7 @@ Here' you'll find an overview of Open Source projects that I was working on rece
     <tr>
     <tr></tr>
     <tr>
+      <td></td>
       <td><a href="https://github.com/thought2/purescript-marionette">marionette</a></td>
       <td>A small PureScript only MVC library</td>
       <td>MVC</td>
@@ -120,6 +121,7 @@ Here' you'll find an overview of Open Source projects that I was working on rece
     </tr>
     <tr></tr>
     <tr>
+      <td></td>
       <td><a href="https://github.com/thought2/purescript-marionette-commander">marionette-commander</a></td>
       <td>A purescript-marionette renderer for interactive CLI programs</td>
       <td></td>
@@ -128,6 +130,7 @@ Here' you'll find an overview of Open Source projects that I was working on rece
     </tr>
     <tr></tr>
     <tr>
+      <td></td>
       <td><a href="https://github.com/thought2/purescript-marionette-react-basic-hooks">marionette-react-basic-hooks</a></td>
       <td>A marionette renderer for react-basic-hooks</td>
       <td>react-basic</td>
