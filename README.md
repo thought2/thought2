@@ -6,7 +6,6 @@ Here' you'll find an overview of Open Source projects that I was working on rece
 
 <table>
   <thead>
-    <tr></tr>
     <tr>
       <td></td>
       <td>Name</td>
