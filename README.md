@@ -59,10 +59,94 @@ Here' you'll find an overview of Open Source projects that I was working on rece
     <tr>
       <td colspan=6><b>State management</b></td>
     <tr>
+    <tr></tr>
     <tr>
       <td></td>
       <td><a href="https://github.com/thought2/purescript-stadium">stadium</a></td>
       <td>Type safe state machines</td>
+      <td></td>
+      <td>PureScript</td>
+      <td>draft</td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td colspan=5><b>Classless</b></td>
+    <tr>
+    <tr>
+      <td><a href="https://github.com/thought2/purescript-classless">classless</a></td>
+      <td>Utils to create classless APIs</td>
+      <td></td>
+      <td>PureScript</td>
+      <td>released</td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td><a href="https://github.com/thought2/purescript-classless-decode-json">classless-decode-json</a></td>
+      <td></td>
+      <td></td>
+      <td>PureScript</td>
+      <td>released</td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td><a href="https://github.com/thought2/purescript-classless-encode-json">classless-encode-json</a></td>
+      <td></td>
+      <td></td>
+      <td>PureScript</td>
+      <td>released</td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td><a href="https://github.com/thought2/purescript-classless-arbitrary">classless-arbitrary</a></td>
+      <td></td>
+      <td></td>
+      <td>PureScript</td>
+      <td>released</td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td colspan=5><b>MVC</b></td>
+    <tr>
+    <tr></tr>
+    <tr>
+      <td><a href="https://github.com/thought2/purescript-marionette">marionette</a></td>
+      <td>A small PureScript only MVC library</td>
+      <td>MVC</td>
+      <td>PureScript</td>
+      <td>released</td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td><a href="https://github.com/thought2/purescript-marionette-commander">marionette-commander</a></td>
+      <td>A purescript-marionette renderer for interactive CLI programs</td>
+      <td></td>
+      <td>PureScript</td>
+      <td>released</td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td><a href="https://github.com/thought2/purescript-marionette-react-basic-hooks">marionette-react-basic-hooks</a></td>
+      <td>A marionette renderer for react-basic-hooks</td>
+      <td>react-basic</td>
+      <td>PureScript</td>
+      <td>released</td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td colspan=5><b>Other</b></td>
+    <tr>
+    <tr></tr>
+    <tr>
+      <td><a href="https://github.com/thought2/purescript-labeled-data">labeled-data</a></td>
+      <td>Conversions of arbitrary data types to and from Records or Variants</td>
+      <td>MVC</td>
+      <td>PureScript</td>
+      <td>draft</td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td><a href="https://github.com/thought2/purescript-variant-ctors">variant-ctors</a></td>
+      <td>Generate constructors for Variant types.</td>
       <td></td>
       <td>PureScript</td>
       <td>draft</td>
