@@ -141,7 +141,6 @@ Here' you'll find an overview of Open Source projects that I was working on rece
       <td colspan=6><b>Other</b></td>
     <tr>
     <tr></tr>
-    <tr></tr>
     <tr>
       <td></td>
       <td><a href="https://github.com/thought2/purescript-labeled-data">labeled-data</a></td>
