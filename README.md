@@ -20,7 +20,6 @@ Here' you'll find an overview of Open Source projects that I was working on rece
     <tr>
       <td colspan=6><b>Data Structures</b></td>
     <tr>
-    <tr></tr>
     <tr>
       <td></td>
       <td><a href="https://github.com/thought2/purescript-grid">grid</a></td>
