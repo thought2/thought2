@@ -137,12 +137,13 @@ Here' you'll find an overview of Open Source projects that I was working on rece
       <td>PureScript</td>
       <td>released</td>
     </tr>
-    <tr></tr>
     <tr>
       <td colspan=6><b>Other</b></td>
     <tr>
     <tr></tr>
+    <tr></tr>
     <tr>
+      <td></td>
       <td><a href="https://github.com/thought2/purescript-labeled-data">labeled-data</a></td>
       <td>Conversions of arbitrary data types to and from Records or Variants</td>
       <td>MVC</td>
@@ -151,6 +152,7 @@ Here' you'll find an overview of Open Source projects that I was working on rece
     </tr>
     <tr></tr>
     <tr>
+      <td></td>
       <td><a href="https://github.com/thought2/purescript-variant-ctors">variant-ctors</a></td>
       <td>Generate constructors for Variant types.</td>
       <td></td>
