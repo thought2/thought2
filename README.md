@@ -56,7 +56,6 @@ Here' you'll find an overview of Open Source projects that I was working on rece
       <td>PureScript</td>
       <td>released</td>
     </tr>
-    <tr></tr>
     <tr>
       <td colspan=6><b>State management</b></td>
     <tr>
