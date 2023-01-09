@@ -69,7 +69,7 @@ Here' you'll find an overview of Open Source projects that I was working on rece
       <td>draft</td>
     </tr>
     <tr>
-      <td colspan=5><b>Classless</b></td>
+      <td colspan=6><b>Classless</b></td>
     <tr>
     <tr></tr>
     <tr>
@@ -107,9 +107,8 @@ Here' you'll find an overview of Open Source projects that I was working on rece
       <td>PureScript</td>
       <td>released</td>
     </tr>
-    <tr></tr>
     <tr>
-      <td colspan=5><b>MVC</b></td>
+      <td colspan=6><b>MVC</b></td>
     <tr>
     <tr></tr>
     <tr>
@@ -137,7 +136,7 @@ Here' you'll find an overview of Open Source projects that I was working on rece
     </tr>
     <tr></tr>
     <tr>
-      <td colspan=5><b>Other</b></td>
+      <td colspan=6><b>Other</b></td>
     <tr>
     <tr></tr>
     <tr>
