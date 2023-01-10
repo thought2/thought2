@@ -1,6 +1,8 @@
 Hi, my name is Michael!
 
-Here' you'll find an overview of Open Source projects that I was working on recently:
+
+
+Here you'll find an overview of Open Source projects that I was working on recently:
 
 ## Libraries
 
@@ -160,3 +162,9 @@ Here' you'll find an overview of Open Source projects that I was working on rece
     </tr>
   </tbody>
 </table>
+
+## Support me
+
+If you like my work you can...
+
+<a href='https://ko-fi.com/C0C3HQFRF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
